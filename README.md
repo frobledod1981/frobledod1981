@@ -35,7 +35,6 @@
       <h3 align="center">Portafolio</h3>
         <br />
         <a target="_blank" href="https://frobledod1981.github.io/Portafolio/">
-            <img src="images/nftportal.jpg" width="100%" alt="NFT App"/>
         </a>
         <br />
         <p align="center">
