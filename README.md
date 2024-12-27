@@ -16,7 +16,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 - 📈 ¡Soy un entusiasta de la Programacion me encanta El desarrollo de Software!
-- 💻 Soy egresado de Analista Programador Inacap.
+- 💻 Soy Titulado de Analista Programador Inacap Generacion 2022.
 - 🔭 ¡Actualmente estoy realizando un curso sobre Java Spring [Desarrollo de softaware Java-Spring trainne][sense corfo]!
 - 🌱 Actualmente estoy aprendiendo a Java Full.
 - 🥅 Las API son divertidas, me gusta jugar con las API de Twitter y Youtube.
