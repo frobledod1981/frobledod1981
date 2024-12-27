@@ -69,79 +69,75 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Portfolio App</h3>
-      <br />
-        <a target="_blank" href="https://rahulkarda.netlify.app">
-          <img src="images/portfolio.jpg" width="100%" alt="Portfolio"/>
+      <h3 align="center">Portafolio</h3>
+        <br />
+        <a target="_blank" href="https://frobledod1981.github.io/Portafolio/">
         </a>
-      <br />
+        <br />
         <p align="center">
           <br>
-  <a href="https://github.com/rahulkarda/Portfolio" target="_blank">
+  <a href="https://github.com/frobledod1981/Portafolio?tab=readme-ov-file" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="http://rahulkarda.netlify.app" target="_blank">
+  </a>  
+  <a href="https://frobledod1981.github.io/Portafolio/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>Projecto de Portafolio: Trabajo final Modulo 02 Fundamentos Front - End Generando portafolio de Prueba usando HTML - CSS - JS Enfoque css Usando metodoogia BEM</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">NASA Astronomy Picture of the Day</h3>
+      <h3 align="center">Portafolio</h3>
         <br />
-        <a target="_blank" href="https://github.com/rahulkarda/NASA-APOD">
-          <img src="images/nasaapod.jpg" width="100%" alt="NASA Astronomy Picture of the Day"/>
+        <a target="_blank" href="https://frobledod1981.github.io/Portafolio/">
         </a>
         <br />
         <p align="center">
           <br>
-  <a href="https://github.com/rahulkarda/NASA-APOD" target="_blank">
+  <a href="https://github.com/frobledod1981/Portafolio?tab=readme-ov-file" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://apodbyrahul.netlify.app" target="_blank">
+  </a>  
+  <a href="https://frobledod1981.github.io/Portafolio/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript & APIs</strong> - With over 10,000 different images, pick a date to get the NASA Astronomy Picture of the Day!</p>
+        <p><strong>Projecto de Portafolio: Trabajo final Modulo 02 Fundamentos Front - End Generando portafolio de Prueba usando HTML - CSS - JS Enfoque css Usando metodoogia BEM</p>
     </td>
   </tr>
   
    <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Web Postman</h3>
-      <br />
-        <a target="_blank" href="https://webpostman.netlify.app">
-          <img src="images/webpostman.jpg" width="100%" alt="Web Postman"/>
+      <h3 align="center">Portafolio</h3>
+        <br />
+        <a target="_blank" href="https://frobledod1981.github.io/Portafolio/">
         </a>
-      <br />
+        <br />
         <p align="center">
           <br>
-  <a href="https://github.com/rahulkarda/Web-Postman" target="_blank">
+  <a href="https://github.com/frobledod1981/Portafolio?tab=readme-ov-file" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="http://webpostman.netlify.app" target="_blank">
+  </a>  
+  <a href="https://frobledod1981.github.io/Portafolio/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript & PrismJs</strong> - A Web interface to easily create GET and POST requests to test and document APIs.</p>
+        <p><strong>Projecto de Portafolio: Trabajo final Modulo 02 Fundamentos Front - End Generando portafolio de Prueba usando HTML - CSS - JS Enfoque css Usando metodoogia BEM</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">IP Address Tracker</h3>
+      <h3 align="center">Portafolio</h3>
         <br />
-        <a target="_blank" href="https://github.com/rahulkarda/IP-Address-Tracker">
-          <img src="images/iptracker.jpg" width="100%" alt="IP Address Tracker"/>
+        <a target="_blank" href="https://frobledod1981.github.io/Portafolio/">
         </a>
         <br />
         <p align="center">
           <br>
-  <a href="https://github.com/rahulkarda/IP-Address-Tracker" target="_blank">
+  <a href="https://github.com/frobledod1981/Portafolio?tab=readme-ov-file" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://trackmyip.netlify.app" target="_blank">
+  </a>  
+  <a href="https://frobledod1981.github.io/Portafolio/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript & APIs</strong> - Tracks your IP Address and generates the live location on map.</p>
+        <p><strong>Projecto de Portafolio: Trabajo final Modulo 02 Fundamentos Front - End Generando portafolio de Prueba usando HTML - CSS - JS Enfoque css Usando metodoogia BEM</p>
     </td>
   </tr>
 </table>
