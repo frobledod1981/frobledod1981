@@ -167,7 +167,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,github,c,javascript,typescript,mongodb,java,spring,php,c#" /><br>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,oracle sql,html,css,vscode,figma,git,angular,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma,git,angular,tailwind" />
 </div>
 
 
