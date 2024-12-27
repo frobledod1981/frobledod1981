@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, React, Sass, & Solidity</strong> - NFT Platform :  A Smart contract in Solidity and a Web3 app to Mint your own NFT collection. Frontend made with React to let users connect their wallets and interact with the NFTs.</p>
+        <p><strong>Projecto de Portafolio: Trabajo final Modulo 02 Fundamentos Front - End Generando portafolio de Prueba usando HTML - CSS - JS Enfoque css Usando metodoogia BEM o bloque - elemento - modificador y uso de javascript con eventos y manipulacion de DOM</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Wave Portal</h3>
