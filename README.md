@@ -153,7 +153,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- ## :trophy: Languages and Tools: :robot:
+ ## :trophy: Languajes y Herramientas: :robot:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,github,c,javascript,typescript,mongodb,java,spring,php,docker,linux,npm,eclipse,intellij" /><br>
