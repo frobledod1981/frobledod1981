@@ -32,9 +32,9 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">NFT Portal</h3>
+      <h3 align="center">Portafolio</h3>
         <br />
-        <a target="_blank" href="http://nftportalbyrahul.netlify.app">
+        <a target="_blank" href="https://frobledod1981.github.io/Portafolio/">
             <img src="images/nftportal.jpg" width="100%" alt="NFT App"/>
         </a>
         <br />
