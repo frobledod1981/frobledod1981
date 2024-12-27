@@ -50,12 +50,6 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Wave Portal</h3>
-        <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/waveportal.jpg" width="100%"  alt="Wave Portal"/>
-        </a>
-        <br />
-        <p align="center">
    <br>
   <a href="https://github.com/rahulkarda/Wave-Portal" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
