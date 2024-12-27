@@ -49,16 +49,21 @@
         <p><strong>Projecto de Portafolio: Trabajo final Modulo 02 Fundamentos Front - End Generando portafolio de Prueba usando HTML - CSS - JS Enfoque css Usando metodoogia BEM</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Wave Portal</h3>
-   <br>
-  <a href="https://github.com/rahulkarda/Wave-Portal" target="_blank">
+      <h3 align="center">Portafolio</h3>
+        <br />
+        <a target="_blank" href="https://frobledod1981.github.io/Portafolio/">
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/frobledod1981/Portafolio?tab=readme-ov-file" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a> 
-  <a href="https://waveatrahul.netlify.app/" target="_blank">
+  </a>  
+  <a href="https://frobledod1981.github.io/Portafolio/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, React, Sass & Solidity</strong> - Wave Portal : A Web3 App with Solidity + Ethereum Smart Contracts. Send me Hello through Blockchain!!.</p>
+        <p><strong>Projecto de Portafolio: Trabajo final Modulo 02 Fundamentos Front - End Generando portafolio de Prueba usando HTML - CSS - JS Enfoque css Usando metodoogia BEM</p>
     </td>
   </tr>
   
