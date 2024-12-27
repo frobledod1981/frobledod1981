@@ -165,5 +165,9 @@
 
  ## :trophy: Languages and Tools: :robot:
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,github,c,javascript,typescript,express,mongodb,java" /><br>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+</div>
 
 
