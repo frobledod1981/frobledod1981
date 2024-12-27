@@ -15,12 +15,12 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-- 📈 I'm a Data science and AI Enthusiast!
-- 💻 I am a 3rd year computer science undergrad at Lovely Professional University.
-- 🔭 Currently pursuing a course on coursera [Data analysis with python][coursera]!
-- 🌱 I’m currently learning to learn.
-- 🥅 API's are fun, i like to play with twitter,youtube Apis.
-- ⚡ Learning something new everyday keps my dopamine levels high.
+- 📈 ¡Soy un entusiasta de la Programacion me encanta El desarrollo de Software!
+- 💻 Soy egresado de Analista Programador Inacap.
+- 🔭 ¡Actualmente estoy realizando un curso sobre Java Spring [Desarrollo de softaware Java-Spring trainne][sense corfo]!
+- 🌱 Actualmente estoy aprendiendo a Java Full.
+- 🥅 Las API son divertidas, me gusta jugar con las API de Twitter y Youtube.
+- ⚡ Aprender algo nuevo todos los días mantiene altos mis niveles de dopamina.
 
 ---
 
