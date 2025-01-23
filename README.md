@@ -113,7 +113,7 @@
         <br />
         <p align="center">
           <br>
-  <a href="#" target="_blank">
+  <a href="https://github.com/frobledod1981/administradorcitas" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://adminidorcitas.netlify.app/" target="_blank">
