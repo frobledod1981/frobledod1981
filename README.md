@@ -56,14 +56,14 @@
         <br />
         <p align="center">
           <br>
-  <a href="https://github.com/frobledod1981/Portafolio?tab=readme-ov-file" target="_blank">
+  <a href=https://market-dev-prueba.netlify.app/ target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://frobledod1981.github.io/Portafolio/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Projecto de Portafolio: Trabajo final Modulo 02 Fundamentos Front - End Generando portafolio de Prueba usando HTML - CSS - JS Enfoque css Usando metodoogia BEM</p>
+        <p><strong>Pagina Dedicada a la venta de Poleras con diseños de Logos de Tecnolgias Web del FRONT-END</p>
     </td>
   </tr>
   
