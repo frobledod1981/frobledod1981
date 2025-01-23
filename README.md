@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Projecto de Portafolio: Trabajo final Modulo 02 Fundamentos Front - End Generando portafolio de Prueba usando HTML - CSS - JS Enfoque css Usando metodoogia BEM</p>
+        <p><strong>Sitio Free-Lancer</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Portafolio</h3>
@@ -96,7 +96,7 @@
   <a href="https://github.com/frobledod1981/Portafolio?tab=readme-ov-file" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://frobledod1981.github.io/Portafolio/" target="_blank">
+  <a href="https://freelancer-fernando.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
