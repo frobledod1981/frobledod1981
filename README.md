@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Projecto de Portafolio: Trabajo final Modulo 02 Fundamentos Front - End Generando portafolio de Prueba usando HTML - CSS - JS Enfoque css Usando metodoogia BEM</p>
+        <p><strong>"Bienvenido a mi portafolio, un espacio donde se fusionan creatividad y profesionalismo. Explora una selección de mis trabajos destacados, que abarcan desde webs hasta pequenos sistemas. Cada proyecto refleja mi dedicación y habilidades, ofreciendo soluciones innovadoras y de alta calidad. Mi objetivo es crear valor a través de un enfoque personalizado y colaborativo. ¡Descubre cómo podemos transformar ideas en realidad juntos!"</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Front-End Store</h3>
