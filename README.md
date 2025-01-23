@@ -49,7 +49,7 @@
         <p><strong>Projecto de Portafolio: Trabajo final Modulo 02 Fundamentos Front - End Generando portafolio de Prueba usando HTML - CSS - JS Enfoque css Usando metodoogia BEM</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Portafolio</h3>
+      <h3 align="center">Front-End Store</h3>
         <br />
         <a target="_blank" href="https://frobledod1981.github.io/Portafolio/">
         </a>
