@@ -86,7 +86,7 @@
         <p><strong>Desarrollo de sitio Free-Lancer para creacion de sitio webs</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Portafolio</h3>
+      <h3 align="center">Ecommerce</h3>
         <br />
         <a target="_blank" href="https://frobledod1981.github.io/Portafolio/">
         </a>
