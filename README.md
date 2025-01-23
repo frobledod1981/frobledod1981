@@ -100,7 +100,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>"sitio de muebles, tu destino para muebles elegantes y funcionales. Transformamos tus espacios con piezas de alta calidad y diseño único. ¡Encuentra el mueble perfecto para cada rincón de tu hogar!"</p>
+        <p><strong>"Sitio de muebles, tu destino para muebles elegantes y funcionales. Transformamos tus espacios con piezas de alta calidad y diseño único. ¡Encuentra el mueble perfecto para cada rincón de tu hogar!"</p>
     </td>
   </tr>
   
