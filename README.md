@@ -123,7 +123,7 @@
         <p><strong>Gestiona tus citas veterinarias de manera eficiente con AdminCitas. Nuestro sistema te permite programar y organizar tus visitas al veterinario, recordatorios automáticos y gestión de historiales médicos de tus mascotas. Simplifica la administración de citas y brinda el mejor cuidado a tus amigos peludos.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Portafolio</h3>
+      <h3 align="center">Recetario</h3>
         <br />
         <a target="_blank" href="https://frobledod1981.github.io/Portafolio/">
         </a>
@@ -133,7 +133,7 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://adminidorcitas.netlify.app/" target="_blank">
+  <a href="https://recetarioss.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
