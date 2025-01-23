@@ -93,7 +93,7 @@
         <br />
         <p align="center">
           <br>
-  <a href="https://github.com/frobledod1981/Portafolio?tab=readme-ov-file" target="_blank">
+  <a href="https://github.com/frobledod1981/muebles" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://freelancer-fernando.netlify.app/" target="_blank">
