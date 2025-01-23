@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>"Bienvenido a mi sitio FreeLance, tu solución integral para servicios independientes. Ofrezco una amplia gama de habilidades y experiencia en [tus áreas de especialización]. Desde [tipo de servicio 1] hasta [tipo de servicio 2], mi objetivo es proporcionar resultados de alta calidad que superen tus expectativas. Colaboro estrechamente contigo para entender tus necesidades y ofrecer soluciones personalizadas. ¡Hagamos realidad tus proyectos juntos!"</p>
+        <p><strong>"Bienvenido a mi sitio FreeLance, tu solución integral para servicios independientes. Ofrezco una amplia gama de habilidades y experiencia en Desarrollo de sitio web y ERP.mi objetivo es proporcionar resultados de alta calidad que superen tus expectativas. Colaboro estrechamente contigo para entender tus necesidades y ofrecer soluciones personalizadas. ¡Hagamos realidad tus proyectos juntos!"</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Ecommerce</h3>
