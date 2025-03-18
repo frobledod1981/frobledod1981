@@ -166,7 +166,7 @@
   <h2><b>😄 Contactate conmigo</b></h2>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/dhanola/" target="_blank">
+<a href="https://www.linkedin.com/in/fernandorobledodonoso/" target="_blank">
   <img align="center" alt="Rahul Dhanola | Linkedin" width="42px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/_DHANOLA" target="_blank">
