@@ -169,7 +169,7 @@
 <a href="https://www.linkedin.com/in/fernandorobledodonoso/" target="_blank">
   <img align="center" alt="Rahul Dhanola | Linkedin" width="42px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/frobled1981" target="_blank">
+<a href="https://twitter.com/frobledod1981" target="_blank">
   <img align="center" alt="Rahul Dhanola | Twitter" width="42px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/#/" target="_blank">
