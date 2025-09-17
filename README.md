@@ -156,8 +156,8 @@
  ## :trophy: Languajes y Herramientas: :robot:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,github,c,javascript,typescript,mongodb,java,spring,php,docker,linux,npm,eclipse,intellij" /><br>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma,git,angular,tailwind,sass,vue,postman,aws,gulp,wordpress" />
+  <img src="https://skillicons.dev/icons?i=nodejs,github,c,javascript,typescript,mongodb,java,spring,php,docker,linux,npm,eclipse,wordpress,python" /><br>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma,git,angular,tailwind,sass,vue,postman,aws,gulp" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
