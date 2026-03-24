@@ -17,7 +17,7 @@
 
 - 📈 ¡Soy un entusiasta de la Programacion me encanta El desarrollo de Software!
 - 💻 Soy Titulado de Analista Programador Inacap Generacion 2023.
-- 🔭 ¡Actualmente estoy realizando un curso sobre Java Spring [Desarrollo de softaware Java-Spring trainne][sense corfo]!
+- 🔭 ¡Termine mi curso sobre Java Spring [Desarrollo de softaware Java-Spring trainne][sense corfo]!
 - 🌱 Actualmente estoy aprendiendo Java a Full.
 - 🥅 Las API son divertidas, me gusta jugar con las API de Twitter y Youtube.
 - ⚡ Aprender algo nuevo todos los días mantiene altos mis niveles de dopamina.
